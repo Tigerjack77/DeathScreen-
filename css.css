@@ -1,0 +1,33 @@
+.windows {
+  width: 90rem;
+  height: 50rem;
+}
+
+body {
+  background-color: #bbbbbb
+}
+
+.title {
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.windows-backround {
+    background-color: #0000ac
+}
+
+.title {
+  font-family: 'Baloo 2', cursive;
+}
+
+.btn {
+  margin: 2rem 2rem 2rem 2rem;
+
+}
+
+.intro {
+
+  background-image: url("dead computer.png");
+  background-color: white;
+  margin: 0rem 0rem 0rem 0rem;
+
+}
